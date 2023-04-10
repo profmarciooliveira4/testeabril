@@ -20,6 +20,8 @@
 
 .livros {
     background-image: linear-gradient(#4C49E0 0%, #4C49E0 52.78%);
+    color: #FFFFFF;
+    display: flex;
 }
 
 .titulo-section {
