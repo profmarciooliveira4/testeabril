@@ -22,6 +22,12 @@
     background-image: linear-gradient(#4C49E0 0%, #4C49E0 52.78%);
     color: #FFFFFF;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.livros-conteudo {
+    width: 35%;
 }
 
 .titulo-section {
