@@ -42,7 +42,15 @@
 }
 
 .texto-section {
-
+    width: 923px;
+    height: 99px;
+    left: 128px;
+    top: 382px;
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
 }
 
 .olarubi-imagem {
