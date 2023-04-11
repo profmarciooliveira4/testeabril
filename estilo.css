@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .cabecalho {
     display: flex;
     justify-content: space-around;
