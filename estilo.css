@@ -64,6 +64,7 @@ body {
 .divisaum {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .olarubi-imagem {
