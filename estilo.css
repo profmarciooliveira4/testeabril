@@ -73,8 +73,34 @@ body {
     top: 258px
 }
 
-.fatos {
-    width: 25%;
+.titulos-acervo {
+        text-align: center;
+        padding: 25px 0;
+}
+
+.acervo-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.acervo-div {
+        text-align: center;
+}
+
+.clube-imagem {
+    width: 50%;
+}
+
+.fatos-imagem {
+    width: 50%;       
+}
+
+.scratchjr-imagem {
+    width: 50%;
+}
+
+.legenda-acervo {
+
 }
 
 .rodape {
