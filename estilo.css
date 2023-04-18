@@ -76,3 +76,8 @@ body {
 .fatos {
     width: 25%;
 }
+
+.rodape {
+  background-image: linear-gradient(rgba(54, 97, 182, 0), rgba(54, 97, 182, 1));
+  text-align: center;
+}
